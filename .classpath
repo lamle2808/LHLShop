@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Soure code/QLshopbanquanao/src"/>
+	<classpathentry kind="lib" path="Soure code/sqljdbc41. [downloaded with Chrome].jar"/>
+	<classpathentry kind="output" path="Soure code/QLshopbanquanao/build/classes"/>
+</classpath>
